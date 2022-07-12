@@ -105,9 +105,21 @@ We can conclude form the above statistics:
 * Using pycaret as a processing tool, we get the following:
 
 
-### Comparing Models
+### Model Building and Comparison
+
+
 * Comparing and evaluating models performaces. Here we want to see the `AUC` score as a tool to compare and evaluate models. Due to the imbalanced nature of our dataset, `AUC` score is more precise and accurate than your regular `Accuracy` metric.
-* One thing note aside from higher `AUC` core, we may wnat to look at and consider other factor, which is the time. Time 
+* One thing note aside from higher `AUC` core, we may wnat to look at and consider other factor, which is the time. Time refers to how long the model took to implement to dataset. As we can see above, Logistics Reegerssion indeed have the best for AUC, but the time needed are way way longer than any other models.
+* SO based on that consideration we will use Random Forest, LGBM alongside Graident Boosting Classifier as a base models.
+
+### Models Feature Importances
+`LGBM Classifier` <br>
+
+`Random Forest` <br>
+
+`Gradient Boosting CLassifier` <br>
 
 
+Insights we get from those 3 plots:
+* 
 
