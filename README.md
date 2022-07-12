@@ -52,7 +52,7 @@ A marketing campaign is a comprehensive course of action to sell and promote som
 
 * Transfomring `Dt-Customer` to date feautre instead of string.
 
-Creating `Age` feature
+`Age` feature
 * This feature are based on the differentitaion of the year 2022 minus the `CUstomer YearBirth` feature. <br>
 
 
@@ -70,4 +70,20 @@ Creating `Age` feature
 
 ### Desciptive Statistics
 
+We can conclude form the above statistics:
+* The average total spend of each customer customer is around 606 dollar. 
+* Meanwhile average frequency purchases for each customer is around 13 times.
+* Average income yearly for each customer is around 52238 dollar.
 
+### Data Visualization
+`Marital-Status` <br>
+
+* 64% percent of customers are in married relationship, while the other 36 % percent categorised themselves as singles.
+* Interestingly, non married customers are spending more than the married ones. To be precise, 13 dollars more than the average spedning of married customers. 620 dollars over 570 dollars.
+* Whilst average spending for both categories are relatively the same. 13 times. 
+* When it comes to campaign feedbacks, both also have similar things in mind. THe difference is, the amount who rejets the campaign are doubled for married one.
+
+`Education` <br>
+
+* 50 % percents of customers are undergraduate, 26 % percents have master degree, while 22 % have Doctoral and the rest of 2% are basics.
+* 
