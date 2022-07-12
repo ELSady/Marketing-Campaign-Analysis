@@ -5,6 +5,7 @@
 * Visualize and Analyse customers response over the 5 past campaign.
 * Build Supervised Machine learning Classification model, checking its feature importance and Shap value to determine which features contributes when it comes to predicting customer's response for the current campaign.
 
+![strategi-marketing-campaign](https://user-images.githubusercontent.com/96014656/178617542-ea98e1a0-9a32-43ff-8537-71cf8ccb0c37.jpg) <br>
 
 A marketing campaign is a comprehensive course of action to sell and promote something, either a product, service, or brand. In a marketing campaign, the team may have organized the promotion of goods through printed publications, radio, TV, billboards, banners, trade shows, conferences, online, and other kinds of media. Marketing campaigns promote products through different types of media, such as television, radio, print, and online platforms. Campaigns are not solely reliant on advertising and can include demonstrations, video conferencing, and other interactive techniques. Businesses operating in highly competitive markets and franchisees may initiate frequent marketing campaigns and devote significant resources to generating brand awareness and sales. 
 
