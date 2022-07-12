@@ -86,4 +86,6 @@ We can conclude form the above statistics:
 `Education` <br>
 
 * 50 % percents of customers are undergraduate, 26 % percents have master degree, while 22 % have Doctoral and the rest of 2% are basics.
-* 
+* The highest average spending out of 4 categories are oe who has the PhD status with average spending of 672 dollars, followed by undergraduate with 619 dollars, masters with 570 dollars and lastly, 81 dollars for ones who have basic degree.
+* Average Purchase also has similar patterns as the above, with Phd status having the most frequet purchase out of 4 categories, but with a lesser degree of difference amongst 4, only 1 time separate them.
+* For campaign feedback,
