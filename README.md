@@ -88,4 +88,19 @@ We can conclude form the above statistics:
 * 50 % percents of customers are undergraduate, 26 % percents have master degree, while 22 % have Doctoral and the rest of 2% are basics.
 * The highest average spending out of 4 categories are oe who has the PhD status with average spending of 672 dollars, followed by undergraduate with 619 dollars, masters with 570 dollars and lastly, 81 dollars for ones who have basic degree.
 * Average Purchase also has similar patterns as the above, with Phd status having the most frequet purchase out of 4 categories, but with a lesser degree of difference amongst 4, only 1 time separate them.
-* For campaign feedback,
+* For campaign feedback, this also exhibits siilar result to that of `Marital-Status` above, majority of customers do not give positive feedback to it.
+
+`Income` <br>
+
+* Seems the customers yearly income are prdominantly in the range of 50000. 
+* When it comes to total spending custoomers with a higher income are likely to spend more at the store. Unfortunately, this is not always the case, because there are certain customers who have a very high income but only spend a little. These are the outliers.
+* While for frequent spending higher income customers generally tend to spend more than the lsser ones. However, like the previous one, thiss is not always the case.
+
+### Previous Campaign Overview
+
+
+* In general, customer's reception of the campaigns proposed are not very well. Majority of times when the store proposes a certain campaign, many customers reject it, to be specific over 90% of them always reject the idea of a new proposal. The first campaign alone already rejected by the 94 % of customers. 
+
+
+
+
