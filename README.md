@@ -50,7 +50,7 @@ A marketing campaign is a comprehensive course of action to sell and promote som
 `Dt-Customer` Feaure Date Transformation. <br>
 
 
-* Transfomring `Dt-Customer` to date feautre instead of string.
+* Transforming `Dt-Customer` to date feautre instead of string.
 
 `Age` feature
 * This feature are based on the differentitaion of the year 2022 minus the `CUstomer YearBirth` feature. <br>
@@ -99,8 +99,15 @@ We can conclude form the above statistics:
 ### Previous Campaign Overview
 
 
-* In general, customer's reception of the campaigns proposed are not very well. Majority of times when the store proposes a certain campaign, many customers reject it, to be specific over 90% of them always reject the idea of a new proposal. The first campaign alone already rejected by the 94 % of customers. 
+* In general, customer's reception of the campaigns proposed are not very well. Majority of times when the store proposes a certain campaign, many customers reject it, to be specific over 90% of them always reject the idea of a new proposal. The first campaign alone already rejected by the 94 % of customers. The second one is far far worse, with a whooping 99% of customers are in the oppsing side of the feedback. CLearly, the tore needs to improve how they handle or proporse something to customers. Marketing strategy needs to be improved.
 
+### Supervised CLassification Modeling
+* Using pycaret as a processing tool, we get the following:
+
+
+### Comparing Models
+* Comparing and evaluating models performaces. Here we want to see the `AUC` score as a tool to compare and evaluate models. Due to the imbalanced nature of our dataset, `AUC` score is more precise and accurate than your regular `Accuracy` metric.
+* One thing note aside from higher `AUC` core, we may wnat to look at and consider other factor, which is the time. Time 
 
 
 
