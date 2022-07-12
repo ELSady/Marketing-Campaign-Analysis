@@ -166,6 +166,7 @@ Insights we get from those 3 plots include:
 ![index8](https://user-images.githubusercontent.com/96014656/178616930-84a1fd89-9d2f-4c17-8625-7e2c994ddd58.png) <br>
 
 `Random Forest` Shap Plot <br>
+
 ![index9](https://user-images.githubusercontent.com/96014656/178616937-69c1b806-8702-48ef-8c62-c856060dc440.png) <br>
 
 Insights we can get:
