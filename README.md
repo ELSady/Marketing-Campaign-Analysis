@@ -29,16 +29,26 @@ A marketing campaign is a comprehensive course of action to sell and promote som
 * Pycaret
 
 ### Dataset Profiling
-* Datasetr consists of 2240 observations and 29 features with a total size of 64960.
+* Dataset consists of 2240 observations and 29 features with a total size of 64960. <br>
 
-* There are 24 missing values for `income` features. Because of the missing values do not exceed the threshold limit of 5% of a FIlling factor, we can choose to drop them. However, instead we will impute them, because at the end of the day, data is data and it is very valuable to just be dropped.
+![Screenshot 2022-07-13 at 06-24-36 Marketing Campaign Analysis - Jupyter Notebook](https://user-images.githubusercontent.com/96014656/178615921-fb7b285e-3c0f-457b-8c00-263476de0a7e.png)
+
+* There are 24 missing values for `income` features. Because of the missing values do not exceed the threshold limit of 5% of a FIlling factor, we can choose to drop them. However, instead we will impute them, because at the end of the day, data is data and it is very valuable to just be dropped. <br>
+
+![Screenshot 2022-07-13 at 06-25-43 Marketing Campaign Analysis - Jupyter Notebook](https://user-images.githubusercontent.com/96014656/178615959-d83c6105-1b86-4f04-bb89-7b1f7922aa44.png)
 
 ### Data Cleaning
-* Here we impute the missing values using the tool from Scikit Learn.
+* Here we impute the missing values using the tool from Scikit Learn. <br>
 
-* Checking for any anomaly values for categorical features. There were none.
+![Screenshot 2022-07-13 at 06-27-06 Marketing Campaign Analysis - Jupyter Notebook](https://user-images.githubusercontent.com/96014656/178616050-e4fcb36d-5da7-4262-8aa7-6103e50e8f89.png)
 
-* Cross chekcing for any missing values. Dataset is already cleansed.
+* Checking for any anomaly values for categorical features. There were none. <br>
+
+![Screenshot 2022-07-13 at 06-26-46 Marketing Campaign Analysis - Jupyter Notebook](https://user-images.githubusercontent.com/96014656/178616084-ba471166-ba64-4cf9-8afe-e363c14ba179.png)
+
+* Cross chekcing for any missing values. Dataset is already cleansed. <br>
+
+![Screenshot 2022-07-13 at 06-27-37 Marketing Campaign Analysis - Jupyter Notebook](https://user-images.githubusercontent.com/96014656/178616114-69feff32-92f3-45d5-8ed4-3d8a6e64cc30.png)
 
 ### Feature Engineering
 `Educationd` and `Marital-Status` Cardinality Handling. <br>
