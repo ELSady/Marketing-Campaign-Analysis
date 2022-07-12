@@ -128,5 +128,19 @@ Insights we get from those 3 plots include:
 ### Model Interpretation
 
 Insights we can get:
+* A higher income customers have a high and positive impacts on campaign response feedback (Yes response).
+* Similarly a higher total spend from customers also have a high and positive impact on campaign feedback.
+* Meanwhile Recency opposite to the 2 features above, a higher value of Recency will have a negative impact on campaign response (No response).
+
+### Choosing Best Modles and  Predict it on Hold out / Test Set
+* Well use hyperparameter-tuned LGBM classificatio model and implement it to test set.
+
+* Very good, the model keep its high score of `AUC` of 0.87. This is the model we are going to use for upcoming / future data.
+
+### Classification Reports
+Class reports <br>
+
 * 
+
+Confusion Matrix <br>
 
