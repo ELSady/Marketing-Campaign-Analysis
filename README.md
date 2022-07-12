@@ -135,12 +135,7 @@ Insights we can get:
 ### Choosing Best Modles and  Predict it on Hold out / Test Set
 * Well use hyperparameter-tuned LGBM classificatio model and implement it to test set.
 
-* Very good, the model keep its high score of `AUC` of 0.87. This is the model we are going to use for upcoming / future data.
+* Very good, the model retains its high score of `AUC` of 0.87. This is the model we are going to use for upcoming / future data.
 
-### Classification Reports
-Class reports <br>
-
+### Conclusion
 * 
-
-Confusion Matrix <br>
-
