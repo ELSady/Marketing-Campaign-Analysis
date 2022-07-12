@@ -101,7 +101,7 @@ We can conclude form the above statistics:
 
 * In general, customer's reception of the campaigns proposed are not very well. Majority of times when the store proposes a certain campaign, many customers reject it, to be specific over 90% of them always reject the idea of a new proposal. The first campaign alone already rejected by the 94 % of customers. The second one is far far worse, with a whooping 99% of customers are in the oppsing side of the feedback. CLearly, the tore needs to improve how they handle or proporse something to customers. Marketing strategy needs to be improved.
 
-### Supervised CLassification Modeling
+### Supervised Classification Modeling
 * Using pycaret as a processing tool, we get the following:
 
 
@@ -120,6 +120,13 @@ We can conclude form the above statistics:
 `Gradient Boosting CLassifier` <br>
 
 
-Insights we get from those 3 plots:
+Insights we get from those 3 plots include:
+* 3 classification modles above agree uppon the top 3 features which contributes the most when it comes to current campaign response.
+* The 3 top features are `Total Spend`,`Recency` and `Income`. Not in order.
+* We may want to further look how those 3 features affects the response / feedback outcome, Shapley plot can assits us to determine it.
+
+### Model Interpretation
+
+Insights we can get:
 * 
 
